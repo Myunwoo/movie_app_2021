@@ -1,0 +1,2 @@
+body{background-color:#636e72}.movie{display:-webkit-flex;display:flex;background-color:#fff;padding:15px;margin:15px;border-radius:15px;box-shadow:10px 5px 5px #000}.movie:hover{-webkit-transform:translateY(-5px);transform:translateY(-5px)}.movie__column{display:-webkit-flex;display:flex;-webkit-flex-direction:column;flex-direction:column}.movie__column:nth-child(2){margin-left:15px}.movie__title{font-size:35px}.movie__year{font-size:20px}.movie__summary{width:600px}
+/*# sourceMappingURL=main.3a597b8e.chunk.css.map */
